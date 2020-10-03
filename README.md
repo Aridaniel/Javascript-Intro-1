@@ -7,7 +7,7 @@
 * It might be hard to read all this in console.log but it should all work good.
 
 
-* Live Demo right there  https://Javascript-intro-project1.surg.sh
+* Live Demo right there  https://javascript-intro-fundamentals_.surge.sh
 
 * You see most of the work in the console
 
