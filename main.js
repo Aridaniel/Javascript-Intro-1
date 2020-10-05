@@ -231,7 +231,10 @@ console.log(user.nationality);
 document.getElementById("line23").innerHTML = user;
 
 
-////////////
+
+
+
+/////////////////////////////////
 
 
 
@@ -269,5 +272,32 @@ console.log(f.toLocaleString("en-GB"));
 console.log(f.toLocaleString("en-US", {
     timeZone: "America/Los_Angeles"
 }));
+
+
+
+////////////////////////
+
+
+//MATH
+
+console.log(Math);
+console.log(Math.PI);
+
+
+var number = 9.2;
+console.log(Math.round(number));
+console.log(Math.floor(number));
+console.log(Math.ceil(number));
+console.log(Math.trunc(number));
+
+
+
+//random
+
+const random = Math.random();
+console.log(random);
+
+
+
 
 
